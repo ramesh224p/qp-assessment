@@ -4,7 +4,7 @@ var mySqlConnection = {};
 
 var USER = 'rameshroot';
 var PWD = 'Digit@l456';
-var DB_HOST_NAME = '44.212.70.143';
+var DB_HOST_NAME = '3.91.176.74';
 var DB_PORT = '3306';
 var DATABASE = 'ramesh';
 
